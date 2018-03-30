@@ -1,0 +1,23 @@
+{
+  "name": "testnumberformatter",
+  "version": "1.0.0",
+  "description": "Test npm package to publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksrawat/testnumberformatter.git"
+  },
+  "author": "“Kamal <“krawatdotnet@gmail.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksrawat/testnumberformatter/issues"
+  },
+  "homepage": "https://github.com/ksrawat/testnumberformatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  }
+}
