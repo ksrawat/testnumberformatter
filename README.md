@@ -7,7 +7,7 @@ A small library that adds commas to numbers
 
 ## Usage
 
-    var numFormatter = require('@krawat/number-formatter');
+    var numFormatter = require('@krawat/ktestnumberformatter');
 
     var formattedNum = numFormatter(35666);
   
